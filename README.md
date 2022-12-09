@@ -1,7 +1,7 @@
 # hia302_project
 HIA302 Group B project 
 
-data: containing data from the original csv file pulled from gihub
+data: containing data from the original vax_malaysia.csv file pulled from gihub
 
 data2: containing selected 14 variables of interest
 
