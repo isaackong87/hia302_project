@@ -20,8 +20,8 @@ data2: containing selected 14 variables of interest
 13. daily_booster_child: number of individuals aged 5 - 11 who received one dose beyond the original protocol
 14. daily_booster2_child: number of individuals aged 5 - 11 who received two doses beyond the original protocol
 
-data3: containing the total vaccinated individuals in the population
+data3: containing the total vaccinated individuals (overall, adolescents, and children) in the population
 
-data4: containing the total population information based on the age groups
+data4: containing the total population information (overall population, adolescents aged 12-17 only, and children aged 5-11 only)
 
-data5: combined data3 and data4 dataframes with calculated percentage of vaccinated inndividuals in the population based on the age groups 
+data5: combined data3 and data4 dataframes with calculated percentage of vaccinated inndividuals in the population (overall, adolescents, and children) 
