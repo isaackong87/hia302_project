@@ -1,7 +1,7 @@
 # hia302_project
 HIA302 Group B project 
 
-Dr Irfan 
+Group team: Ernest, Irfan, Isaac 
 Vaccination
 
 date: yyyy-mm-dd format; data correct as of 2359hrs on that date
