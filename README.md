@@ -1,7 +1,6 @@
 # hia302_project
 HIA302 Group B project 
 
-<<<<<<< HEAD
 Dr Irfan 
 Vaccination
 
@@ -47,4 +46,4 @@ data3: containing the total vaccinated individuals (overall, adolescents, and ch
 data4: containing the total population information (overall population, adolescents aged 12-17 only, and children aged 5-11 only)
 
 data5: combined data3 and data4 dataframes with calculated percentage of vaccinated inndividuals in the population (overall, adolescents, and children) 
->>>>>>> dev_ernest
+
